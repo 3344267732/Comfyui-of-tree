@@ -41,6 +41,7 @@ git clone https://github.com/your-repo/TTS_BatchTextSplitter.git
 ```
 文本输入节点 → TTS_BatchTextSplitter → TTS节点 → 逐句输出音频
 ```
+<img width="1442" height="581" alt="36103c7564cae23fca64512604eacd5c" src="https://github.com/user-attachments/assets/4a8f1bf4-dbda-4df7-a6a5-c1661d6f2148" />
 
 **输出：**
 ```
